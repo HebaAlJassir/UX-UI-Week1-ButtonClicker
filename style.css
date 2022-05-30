@@ -1,0 +1,194 @@
+.container {
+    margin: 0px auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float:inline-start;
+    width: 1%;
+    padding: 15px;
+}
+
+.topnav {
+    display: flex;
+    background-color: rgb(193, 192, 192);
+    margin-left:215px;
+    margin-right:400px;
+    font-size: 17px;
+    height: 60px;
+}
+
+.topnav h1 {
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+.topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    height: 20px;
+    width: 200px;
+    border: 2px black;
+    border-style: double;
+    font-size: 17px;
+    margin-left: 20%;
+}
+
+.topnav button{
+    margin-top: 8px;
+    height: 30px;
+    width: 80px;
+    margin-left: 25%;
+    margin-top: 2%;
+    border: 2px black;
+    border-style: double;
+    background-color: rgb(71, 71, 230);
+    color: white;
+    font-weight:bold;
+
+}
+
+
+.box1{
+    height: 200px;
+    width: 400px;
+    border: 5px black;
+    border-style:ridge;
+    margin-left:200px;
+    margin-right:200px;
+    margin-top: 3%;
+}
+
+.box1 h3{
+    margin-top: 1%;
+    font-size: 40px;
+    margin-left: 3%;
+
+}
+.box1 h5{
+    font-style: italic;
+    font-weight: lighter;
+    margin-left: 35px;
+    margin-top: -40px;
+    font-size: 20px;
+
+
+
+}
+.box1 h6{
+    font-weight: lighter;
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: -30px;
+
+}
+.cl1 {
+
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+.box1 button{
+    height: 30px;
+    width: 100px;
+    margin-left: 3%;
+    border: 2px black;
+    border-style: double;
+    background-color: rgb(241, 203, 127);
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    box-shadow: 5px 5px black;
+}
+
+.box1 p {
+    margin-left: 12%;
+    margin-top: 90px;
+    font-weight: lighter;
+    position: absolute;
+}
+
+
+.box2{
+    height: 200px;
+    width: 400px;
+    border: 5px black;
+    border-style:ridge;
+    margin-left:215px;
+    margin-right:150px;
+    margin-top: 8%;}
+.cl2{
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+.box2 button{
+    height: 30px;
+    width: 100px;
+    margin-left: 3%;
+    border: 2px black;
+    border-style: double;
+    background-color: rgb(241, 203, 127);
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    box-shadow: 5px 5px black;
+}
+.box2 p{
+    margin-left: 12%;
+    margin-top: 90px;
+    font-weight: lighter;
+    position: absolute;
+}
+.box2 h3{    
+    margin-top: 1%;
+    font-size: 40px;
+    margin-left: 3%;}
+.box2 h5{
+    font-style: italic;
+    font-weight: lighter;
+    margin-left: 35px;
+    margin-top: -40px;
+    font-size: 20px;
+}
+.box2 h6{
+    font-weight: lighter;
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: -30px;
+}
+
+.box3{
+    height: 100px;
+    width: 200px;
+    border: 5px black;
+    border-style:ridge;
+    padding: 10px;
+    margin-left:650px;
+    margin-right:500px;
+    margin-top: 1.2%;
+
+}
+
+.cl3{    
+    float: center;
+
+    padding: 5px;}
+.box3 h3{
+    margin-top: 1%;
+    font-size: 17px;
+    margin-left: 3%;
+
+}
+.box3 button{
+
+    height: 30px;
+    width: 100px;
+    margin-left: 3%;
+    border: 2px black;
+    border-style: double;
+    background-color: rgba(126, 177, 75, 0.972);
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    box-shadow: 5px 5px black;
+}
